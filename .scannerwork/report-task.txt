@@ -2,5 +2,5 @@ projectKey=CI_CD_Example
 serverUrl=http://localhost:9000
 serverVersion=24.12.0.100206
 dashboardUrl=http://localhost:9000/dashboard?id=CI_CD_Example
-ceTaskId=5b6d65e0-2ac7-4ab9-a0dc-c545acd04d30
-ceTaskUrl=http://localhost:9000/api/ce/task?id=5b6d65e0-2ac7-4ab9-a0dc-c545acd04d30
+ceTaskId=b9375ebd-9bfa-49b6-890f-6935f4ca5fb1
+ceTaskUrl=http://localhost:9000/api/ce/task?id=b9375ebd-9bfa-49b6-890f-6935f4ca5fb1
